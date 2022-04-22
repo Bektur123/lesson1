@@ -1,0 +1,6 @@
+name = input('Запешите ваше ФИО:')
+age = int(input('Ведите ваш возраст:'))
+print('Добро пожаловать', name, '!')
+print('Welcome, ' + name,)
+print('Your age', age)
+print('Ваш возраст', age)
